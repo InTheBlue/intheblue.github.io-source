@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Dan Writes]]></title>
+  <link href="http://InTheBlue.github.io/atom.xml" rel="self"/>
+  <link href="http://InTheBlue.github.io/"/>
+  <updated>2013-05-08T19:05:05+00:00</updated>
+  <id>http://InTheBlue.github.io/</id>
+  <author>
+    <name><![CDATA[Daniel Wright]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
