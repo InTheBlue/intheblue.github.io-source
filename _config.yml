@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://InTheBlue.github.io
+title: Dan Writes
+subtitle: Stuff I hope is useful or interesting
+author: Daniel Wright
 simple_search: http://google.com/search
 description:
 
@@ -29,7 +29,7 @@ email:
 root: /
 permalink: /blog/:year/:month/:day/:title/
 source: source
-destination: public
+destination: public/
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
