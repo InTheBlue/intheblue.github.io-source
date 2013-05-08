@@ -3,8 +3,7 @@ layout: post
 title: "Introduction"
 date: 2013-05-08 19:08
 comments: true
-categories:  
-published: false
+categories: Personal 
 ---
 
 My name is Daniel Wright and I'm a Computer Science undergraduate at Nottingham Trent University, currently on Industrial Placement at ARM as a Software Engineer.
