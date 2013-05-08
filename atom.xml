@@ -4,7 +4,7 @@
   <title><![CDATA[Dan Writes]]></title>
   <link href="http://InTheBlue.github.io/atom.xml" rel="self"/>
   <link href="http://InTheBlue.github.io/"/>
-  <updated>2013-05-08T19:08:08+00:00</updated>
+  <updated>2013-05-08T19:10:43+00:00</updated>
   <id>http://InTheBlue.github.io/</id>
   <author>
     <name><![CDATA[Daniel Wright]]></name>
@@ -12,14 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Introduction]]></title>
-    <link href="http://InTheBlue.github.io/blog/2013/05/08/introduction/"/>
-    <updated>2013-05-08T19:08:00+00:00</updated>
-    <id>http://InTheBlue.github.io/blog/2013/05/08/introduction</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
   
 </feed>
